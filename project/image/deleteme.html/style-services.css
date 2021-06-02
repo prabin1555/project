@@ -1,0 +1,19 @@
+.full-page
+{
+    height:100%;
+    width:100%;
+    background-image:linear-gradient(rgba(151, 116, 116, 0.4), rgba(151, 116, 116, 0.4)),url(image1.jpg);
+    background-position:center;
+    background-size:cover;
+    position:absolute;
+    /*this block of code is for the setting the 
+    background image */
+}
+}
+#service-list{
+    height:80px;
+   text-align: center;
+    color: rgb(140, 177, 214);
+    font-size: 15px;
+    position:absolute
+}

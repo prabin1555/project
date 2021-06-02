@@ -1,0 +1,16 @@
+.p{
+    height:100%;
+    width:100%;
+    background-image:linear-gradient(rgba(151, 116, 116, 0.4), rgba(151, 116, 116, 0.4)),url(image3.jpg);
+    background-position:center;
+    background-size:cover;
+    position:absolute;
+    
+}
+.h{
+    background:transparent;
+    height:100%;
+    width:100%;
+    background-position: center;
+    position: absolute;
+}
